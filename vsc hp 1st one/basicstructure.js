@@ -1,3 +1,1 @@
-
-document.body.innerHTML= 
-"hello, how are ya"
+document.body.innerHTML += "<p>Hello, how are ya</p>";
